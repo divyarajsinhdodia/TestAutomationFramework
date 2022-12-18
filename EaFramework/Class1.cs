@@ -1,6 +1,6 @@
 ﻿namespace EaFramework
 {
-    public class Class2
+    public class ClassTest
     {
        
     }
